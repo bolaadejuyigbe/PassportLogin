@@ -1,3 +1,3 @@
 module.exports ={
-    MONGOURI: 'mongodb+srv://node-shop:node-shop@node-rest-dkvm7.mongodb.net/test?retryWrites=true&w=majority'
+    MONGOURI: 'mongodb+srv://passport:passport@node-rest-dkvm7.mongodb.net/test?retryWrites=true&w=majority'
 }
